@@ -20,5 +20,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: rustup update ${{ matrix.toolchain }} && rustup default ${{ matrix.toolchain }}
-      - run: cd ./backend/menhera_tweet_deletion && cargo build --verbose
-      - run: cd ./backend/menhera_tweet_deletion && cargo test --verbose
+      - run: cd ./backend && cargo build --verbose
+      - run: cd ./backend && cargo test --verbose
