@@ -30,8 +30,8 @@ The following requirements are needed to maintain a healthy TL that does not sho
 
 | Tool    | Version  |
 | ------- | -------- |
-|  Rust       |     rustc 1.60.0      |
-| Node.js | v16.13.2 |
+|  Rust       |    1.60.0      |
+| Node.js | 16.13.2 |
 
 
 
