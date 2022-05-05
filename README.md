@@ -30,8 +30,8 @@ The following requirements are needed to maintain a healthy TL that does not sho
 
 | Tool    | Version  |
 | ------- | -------- |
-|  Rust       |    1.60.0      |
-| Node.js | 16.13.2 |
+|  Rust       |     rustc 1.60.0      |
+| Node.js | v16.13.2 |
 
 
 
@@ -45,5 +45,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 ## License
+
+このリポジトリはMIT SUSHI-WAREライセンスの条件の下でオープンソースとして利用出来ます。
+
+This repository is available as open source under the terms of the MIT SUSHI-WARE license.
 
 ![LICENSE: MIT SUSHI-WARE🍣](https://raw.githubusercontent.com/watasuke102/mit-sushi-ware/master/MIT-SUSHI-WARE.svg)
